@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-piastrix.github.io
+Sitemap: https://kazino-piastrix.github.io/sitemap.xml
